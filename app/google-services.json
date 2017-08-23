@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "91713956233",
+    "firebase_url": "https://rajasthantourism-f771c.firebaseio.com",
+    "project_id": "rajasthantourism-f771c",
+    "storage_bucket": "rajasthantourism-f771c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91713956233:android:90d51bd2aa85f30d",
+        "android_client_info": {
+          "package_name": "loudest.rajasthantourism"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91713956233-t94rj1q6oe61nl217bkhnshh3prdg3v9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKTM7VdTZdDKAuIECuH00H2zTsvjsLbRU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
